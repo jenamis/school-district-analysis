@@ -51,12 +51,14 @@ As shown in the images below of the top 5 performing schools based on % Overall 
 As shown in the images below, there is a null value for Thomas High School ninth grade in both the updated average math score by grade level and average reading score by grade level DataFrames due to the exclusion of ninth grade math and reading scores for the school. The original grade level DataFrames had average scores for all schools and grade levels.
 
 **Average Math Score by Grade Level – Original**
+
 ![img7](Resources/Math_Scores_by_Grade_Original.png)
 
 **Average Math Score by Grade Level – Excluding Thomas High School Ninth Grade**
 ![img8](Resources/Math_Scores_by_Grade_Updated.png)
 
 **Average Reading Score by Grade Level – Original**
+
 ![img9](Resources/Reading_Scores_by_Grade_Original.png)
 
 **Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
