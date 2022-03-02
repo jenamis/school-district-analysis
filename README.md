@@ -38,7 +38,7 @@ As shown in the school summary DataFrame images below, performance for Thomas Hi
 
 
 ### Highest Performing Schools
-As shown in the images below of the top 5 performing schools from the school summary DataFrame, Thomas High School was in the position of second highest performer both in the original analysis and after the exclusion of ninth grade math and reading scores for the school.
+As shown in the images below of the top 5 performing schools based on % Overall Passing, Thomas High School was in the position of second highest performer both in the original analysis and after the exclusion of ninth grade math and reading scores for the school.
 
 **Top 5 Performing Schools – Original**
 ![img5](Resources/Top_5_Original.png)
@@ -53,13 +53,13 @@ As shown in the images below, there is a null value for Thomas High School ninth
 **Average Math Score by Grade Level – Original**
 ![img7](Resources/Math_Scores_by_Grade_Original.png)
 
-** Average Math Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Math Score by Grade Level – Excluding Thomas High School Ninth Grade**
 ![img8](Resources/Math_Scores_by_Grade_Updated.png)
 
 **Average Reading Score by Grade Level – Original**
 ![img9](Resources/Reading_Scores_by_Grade_Original.png)
 
-** Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
 ![img10](Resources/Reading_Scores_by_Grade_Updated.png)
 
 
@@ -72,7 +72,7 @@ As shown in the DataFrame images below, after rounding average scores and percen
 **Performance by School Spending Per Student – Original**
 ![img11](Resources/Scores_by_Spending_Original.png)
 
-** Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
 ![img12](Resources/Scores_by_Spending_Updated.png)
 
 
@@ -82,7 +82,7 @@ As shown in the DataFrame images below, after rounding average scores and percen
 **Performance by School Spending Per Student – Original**
 ![img13](Resources/Scores_by_Size_Original.png)
 
-** Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
 ![img14](Resources/Scores_by_Size_Updated.png)
 
 
@@ -92,7 +92,7 @@ As shown in the DataFrame images below, the exclusion of ninth grade math and re
 **Performance by School Type – Original**
 ![img15](Resources/Scores_by_Type_Original.png)
 
-** Performance by School Type – Excluding Thomas High School Ninth Grade**
+**Performance by School Type – Excluding Thomas High School Ninth Grade**
 ![img16](Resources/Scores_by_Type_Updated.png)
 
 
