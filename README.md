@@ -46,39 +46,39 @@ As shown in the school summary DataFrame images below, performance for Thomas Hi
 ### Highest Performing Schools
 As shown in the images below of the top 5 performing schools based on % Overall Passing, Thomas High School was in the position of second highest performer both in the original analysis and after the exclusion of ninth grade math and reading scores for the school.
 
-**Top 5 Performing Schools – Original**
+**Highest Performing Schools – Original**
 
 ![img5](Resources/Top_5_Original.png)
 
 
-**Top 5 Performing Schools – Excluding Thomas High School Ninth Grade**
+**Highest Performing Schools – Excluding Thomas High School Ninth Grade**
 
 ![img6](Resources/Top_5_Updated.png)
 
 
-### Scores by Grade Level
+### Average Scores by Grade Level
 As shown in the images below, there is a null value for Thomas High School ninth grade in both the updated average math score by grade level and average reading score by grade level DataFrames due to the exclusion of ninth grade math and reading scores for the school. The original grade level DataFrames had average scores for all schools and grade levels.
 
-**Average Math Score by Grade Level – Original**
+**Average Math Scores by Grade Level – Original**
 
 ![img7](Resources/Math_Scores_by_Grade_Original.png)
 
 
-**Average Math Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Math Scores by Grade Level – Excluding Thomas High School Ninth Grade**
 
 ![img8](Resources/Math_Scores_by_Grade_Updated.png)
 
 
-**Average Reading Score by Grade Level – Original**
+**Average Reading Scores by Grade Level – Original**
 
 ![img9](Resources/Reading_Scores_by_Grade_Original.png)
 
-**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Average Reading Scores by Grade Level – Excluding Thomas High School Ninth Grade**
 
 ![img10](Resources/Reading_Scores_by_Grade_Updated.png)
 
 
-### Scores by School Spending Per Student
+### Performance by School Spending Per Student
 As shown in the DataFrame images below, after rounding average scores and percentages to the nearest tenth, performance for schools spending $630-644 per student (Thomas High School’s spending range) was affected by the exclusion of ninth grade math and reading scores for Thomas High School as follows:
 -    Percentage of students passing reading was lower by 0.1 percentage point.
 -    Percentage of students passing both math and reading (% Overall Passing) was lower by 0.1 percentage point.
@@ -89,25 +89,25 @@ As shown in the DataFrame images below, after rounding average scores and percen
 ![img11](Resources/Scores_by_Spending_Original.png)
 
 
-**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Performance by School Spending Per Student – Excluding Thomas High School Ninth Grade**
 
 ![img12](Resources/Scores_by_Spending_Updated.png)
 
 
-### Scores by School Size
+### Performance by School Size
 As shown in the DataFrame images below, after rounding average scores and percentages to the nearest tenth, the percentage of students passing reading at medium-sized schools (Thomas High School’s size category) decreased by 0.1 percentage point with the exclusion of ninth grade math and reading scores for Thomas High School. This was the only effect of the exclusion on the analysis by school size.
 
-**Performance by School Spending Per Student – Original**
+**Performance by School Size – Original**
 
 ![img13](Resources/Scores_by_Size_Original.png)
 
 
-**Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+**Performance by School Size – Excluding Thomas High School Ninth Grade**
 
 ![img14](Resources/Scores_by_Size_Updated.png)
 
 
-### Scores by School Type
+### Performance by School Type
 As shown in the DataFrame images below, the exclusion of ninth grade math and reading scores for Thomas High School, a charter school, had no effect on the average scores and percentages in the analysis by school type after rounding to the nearest tenth.
 
 **Performance by School Type – Original**
@@ -121,4 +121,4 @@ As shown in the DataFrame images below, the exclusion of ninth grade math and re
 
 
 ## Summary
-Overall, the effect of excluding math and reading scores for ninth grade students at Thomas High School and replacing them with null values was minimal. Based on numbers rounded to the nearest tenth, there was a slight decrease of 0.3 percentage points for students passing both math and reading (% Overall Passing) for both the district as a whole and Thomas High School individually. The percentage of students passing math decreased very slightly at the district level and for Thomas Hight School, as did the percentage of students passing reading. Average math scores were very slightly lower when looking at overall district performance but unchanged when looking at Thomas High School’s individual performance. Average reading scores were unchanged for the district as a whole, but slightly higher for Thomas High School. The effect on the performance by school spending per student, school size, and school type, was similarly minimal or no effect at all.
+Overall, the effect of excluding math and reading scores for ninth grade students at Thomas High School and replacing them with null values was minimal. Based on numbers rounded to the nearest tenth, there was a slight decrease of 0.3 percentage points for students passing both math and reading (% Overall Passing) for both the district as a whole and Thomas High School individually. The percentage of students passing math decreased very slightly at the district level and for Thomas Hight School, as did the percentage of students passing reading. Average math scores were very slightly lower when looking at overall district performance but unchanged when looking at Thomas High School’s individual performance. Average reading scores were unchanged for the district as a whole, but slightly higher for Thomas High School. The effect on performance by school spending per student, school size, and school type was similarly minimal or no effect at all.
