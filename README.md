@@ -16,9 +16,12 @@ As shown in the DataFrame images below, after rounding average scores and percen
 -    Percentage of students passing both math and reading (% Overall Passing) was lower by 0.3 percentage points.
 
 **District Summary – Original**
+
 ![img1](Resources/District_Summary_Original.png)
 
+
 **District Summary – Excluding Thomas High School Ninth Grade**
+
 ![img2](Resources/District_Summary_Updated.png)
 
 
@@ -31,9 +34,12 @@ As shown in the school summary DataFrame images below, performance for Thomas Hi
 -    Percentage of students passing both math and reading (% Overall Passing) decreased slightly from 90.948012 to 90.630324, which would be a decrease of 0.3 percentage points after rounding to the nearest tenth.
 
 **School Summary – Original**
+
 ![img3](Resources/School_Summary_Original.png)
 
+
 **School Summary – Excluding Thomas High School Ninth Grade**
+
 ![img4](Resources/School_Summary_Updated.png)
 
 
@@ -41,9 +47,12 @@ As shown in the school summary DataFrame images below, performance for Thomas Hi
 As shown in the images below of the top 5 performing schools based on % Overall Passing, Thomas High School was in the position of second highest performer both in the original analysis and after the exclusion of ninth grade math and reading scores for the school.
 
 **Top 5 Performing Schools – Original**
+
 ![img5](Resources/Top_5_Original.png)
 
+
 **Top 5 Performing Schools – Excluding Thomas High School Ninth Grade**
+
 ![img6](Resources/Top_5_Updated.png)
 
 
@@ -54,14 +63,18 @@ As shown in the images below, there is a null value for Thomas High School ninth
 
 ![img7](Resources/Math_Scores_by_Grade_Original.png)
 
+
 **Average Math Score by Grade Level – Excluding Thomas High School Ninth Grade**
+
 ![img8](Resources/Math_Scores_by_Grade_Updated.png)
+
 
 **Average Reading Score by Grade Level – Original**
 
 ![img9](Resources/Reading_Scores_by_Grade_Original.png)
 
 **Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+
 ![img10](Resources/Reading_Scores_by_Grade_Updated.png)
 
 
@@ -72,9 +85,12 @@ As shown in the DataFrame images below, after rounding average scores and percen
 -    No other average scores or percentages were affected.
 
 **Performance by School Spending Per Student – Original**
+
 ![img11](Resources/Scores_by_Spending_Original.png)
 
+
 **Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+
 ![img12](Resources/Scores_by_Spending_Updated.png)
 
 
@@ -82,9 +98,12 @@ As shown in the DataFrame images below, after rounding average scores and percen
 As shown in the DataFrame images below, after rounding average scores and percentages to the nearest tenth, the percentage of students passing reading at medium-sized schools (Thomas High School’s size category) decreased by 0.1 percentage point with the exclusion of ninth grade math and reading scores for Thomas High School. This was the only effect of the exclusion on the analysis by school size.
 
 **Performance by School Spending Per Student – Original**
+
 ![img13](Resources/Scores_by_Size_Original.png)
 
+
 **Average Reading Score by Grade Level – Excluding Thomas High School Ninth Grade**
+
 ![img14](Resources/Scores_by_Size_Updated.png)
 
 
@@ -92,9 +111,12 @@ As shown in the DataFrame images below, after rounding average scores and percen
 As shown in the DataFrame images below, the exclusion of ninth grade math and reading scores for Thomas High School, a charter school, had no effect on the average scores and percentages in the analysis by school type after rounding to the nearest tenth.
 
 **Performance by School Type – Original**
+
 ![img15](Resources/Scores_by_Type_Original.png)
 
+
 **Performance by School Type – Excluding Thomas High School Ninth Grade**
+
 ![img16](Resources/Scores_by_Type_Updated.png)
 
 
